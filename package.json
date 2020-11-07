@@ -1,0 +1,22 @@
+{
+  "name": "jsonschema-generator",
+  "version": "0.0.1",
+  "description": "Simple javascript based JSON Schema generator",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "build": "node lib/builder.js",
+    "build_demo": "node lib/builder.js demo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexemarg/jsonschema-generator.git"
+  },
+  "author": "Alexemarg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexemarg/jsonschema-generator/issues"
+  },
+  "homepage": "https://github.com/Alexemarg/jsonschema-generator#readme"
+}

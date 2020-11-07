@@ -6,8 +6,8 @@ git clone https://github.com/Alexemarg/jsonschema-generator
 ```
 ## Instruction
 1. Clone this repository
-1. Create js file in **src** *(or your configured path)*
-1. Run **build** command
+1. Create schema by `node create [schemaName]` command
+1. Run `build` command
 ## Example
 ### Input:
 ```js

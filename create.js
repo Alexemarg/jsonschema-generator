@@ -1,0 +1,1 @@
+require('./lib/codegen')(process.argv[2]);

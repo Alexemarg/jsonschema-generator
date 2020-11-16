@@ -6,9 +6,10 @@
     "lib": "lib"
   },
   "scripts": {
-    "build": "node lib/builder.js",
+    "dev": "node lib/builder.js devmode",
     "build_demo": "node lib/builder.js demo",
-    "create_schema": "node create"
+    "build": "node lib/builder.js",
+    "new_schema": "node create"
   },
   "repository": {
     "type": "git",

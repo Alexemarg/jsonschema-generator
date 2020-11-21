@@ -1,13 +1,5 @@
 # JSONSchema generator
-This is a simple javascript based JSON Schema generator without dependensies
-## Quick Start
-```
-git clone https://github.com/Alexemarg/jsonschema-generator
-```
-## Instruction
-1. Clone this repository
-1. Create schema by `node create [schemaName]` command
-1. Run `build` command
+This is a simple javascript based JSON Schema generator without dependencies
 ## Example
 ### Input:
 ```js
@@ -68,3 +60,12 @@ module.exports = $().schema()
 	]
 }
 ```
+## Instruction
+1. Clone this repository `git clone https://github.com/Alexemarg/jsonschema-generator`
+1. Create schema by `node create [schemaName]` command
+1. Run `build` command
+## Features
+1. Configurable
+1. Code generation by command
+1. Watching changes
+1. TypeScript generation

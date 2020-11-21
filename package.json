@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Alexemarg/jsonschema-generator/issues"
   },
-  "homepage": "https://github.com/Alexemarg/jsonschema-generator#readme"
+  "homepage": "https://github.com/Alexemarg/jsonschema-generator#readme",
+  "optionalDependencies": {
+    "json-schema-to-typescript": "^9.1.1"
+  }
 }

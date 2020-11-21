@@ -1,1 +1,1 @@
-require('./lib/codegen')(process.argv[2]);
+require('./lib/codegen')(process.argv[2])
